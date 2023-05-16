@@ -1,0 +1,11 @@
+﻿Test for BlackFinch by Sam Smith
+================================
+This is a model of a more complex parser.
+
+A fake DI container is user (i.e. a dictionary).
+
+Less validation is used than might be with more time.
+
+There are no unit tests.
+
+The instructions are to spend one hour and so the work has been cut down accordingly as above.
